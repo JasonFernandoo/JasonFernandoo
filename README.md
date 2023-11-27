@@ -15,7 +15,7 @@
 
 <hr>
 
-<div align="center"&display="flex"&flex-direction="row">
+<div align="center">
   <h3>LANGUAGES</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java,css,html,js">
@@ -39,7 +39,7 @@
 
 <hr>
 
-<div align="center">
+<div align="center"&display="flex"&flex-direction="row">
   <h3>STATS</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasonFernandoo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"></a>
   <a href="https://github.com/jasonFernandoo/convoychat">
