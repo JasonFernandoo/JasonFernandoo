@@ -1,13 +1,13 @@
 <hr>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=23F7A0&center=true&random=false&width=1300&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=009973&center=true&random=false&width=1300&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </div>
 
 <hr>
 
 <div align="center">
-  <h3 color=23F7A0>SOCIAL MEDIA</h3>
+  <h3 style="color: #009973;">SOCIAL MEDIA</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram,discord,github,linkedin">
   </a>
@@ -16,11 +16,11 @@
 <hr>
 
 <div align="center">
-  <h3 color=23F7A0>LANGUAGES</h3>
+  <h3 style="color: #009973;">LANGUAGES</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java,css,html,js">
   </a>
-  <h3 color=23F7A0>OTHERS</h3>
+  <h3 style="color: #009973;">OTHERS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,blender,git,mysql,ps,vscode">
   </a>
@@ -29,7 +29,7 @@
 <hr>
 
 <div align="center">
-  <h3 color=23F7A0>CONTRIBUTIONS</h3>
+  <h3 style="color: #009973;">CONTRIBUTIONS</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JasonFernandoo/JasonFernandoo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonFernandoo/JasonFernandoo/output/github-contribution-grid-snake.svg">
@@ -40,7 +40,7 @@
 <hr>
 
 <div align="center">
-  <h3 color=23F7A0>STATS</h3>
+  <h3 style="color: #009973;">STATS</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasonFernandoo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"></a>
 </div>
 <div align="center">
