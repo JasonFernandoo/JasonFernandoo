@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </div>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jason.fernandoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jason.fernandoo" height="30" width="40" /></a>
