@@ -22,7 +22,7 @@
   </a>
   <h3>OTHER :</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,blender,git,mysql,ps,vercell,vscode">
+    <img src="https://skillicons.dev/icons?i=arduino,blender,git,mysql,ps,vscode">
   </a>
 </div>
 
@@ -35,4 +35,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JasonFernandoo/JasonFernandoo/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<hr>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasonFernandoo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://github.com/jasonFernandoo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonFernandoo&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+
 
