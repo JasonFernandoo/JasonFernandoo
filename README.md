@@ -15,7 +15,7 @@
 
 <hr>
 
-<div align="center">
+<div align="center"&display="flex"&flex-direction="row">
   <h3>LANGUAGES</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,java,css,html,js">
