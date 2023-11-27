@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif">
+</div>
+
 <hr>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=009973&center=true&random=false&width=1300&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=009973&center=true&Center=true&random=false&width=1300&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </div>
 
 <hr>
