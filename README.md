@@ -1,5 +1,6 @@
+<hr>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F70000&center=true&random=false&width=435&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=F70000&center=true&random=false&width=1200&lines=Hello+Guys!!!;I'm+Jason+Fernando;Informatics+Engineering+in+Bandung+Institute+of+Technology" alt="Typing SVG" /></a>
 </div>
 <hr>
 <h3 align="left">Connect with me:</h3>
