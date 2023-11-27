@@ -7,7 +7,7 @@
 <hr>
 
 <div align="center">
-  <h3 color="#23F7A0">SOCIAL MEDIA</h3>
+  <h3 color="23F7A0">SOCIAL MEDIA</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram,discord,github,linkedin">
   </a>
