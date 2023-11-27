@@ -45,8 +45,7 @@
 </div>
 <div align="center>
  <a href="https://github.com/jasonFernandoo/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonFernandoo&layout=compact&position=relative
-    &langs_count=8&card_width=320&theme=gotham"></a>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonFernandoo&langs_count=8&card_width=320&theme=gotham"></a>
 </div>
 
 
