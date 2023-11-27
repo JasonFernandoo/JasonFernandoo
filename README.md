@@ -39,12 +39,14 @@
 
 <hr>
 
-<div align="center"&display="flex"&flex-direction="row">
+<div align="center">
   <h3>STATS</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasonFernandoo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"></a>
-  <a href="https://github.com/jasonFernandoo/convoychat">
+</div>
+<div align="center>
+ <a href="https://github.com/jasonFernandoo/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonFernandoo&layout=compact&langs_count=8&card_width=320&theme=gotham">
-</a>
+ </a>
 </div>
 
 
